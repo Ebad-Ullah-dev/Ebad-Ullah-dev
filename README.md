@@ -93,6 +93,14 @@ To grow my remote medical billing work, serve more healthcare practices, and use
 
 ---
 
+## 🤝 Work With Me
+
+I am available for remote US medical billing and RCM work, including insurance verification, claims follow-up, payment posting, and denial management.
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012f7460efff054abf)
+[![Fiverr](https://img.shields.io/badge/Fiverr-View%20My%20Gigs-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_PUBLIC_FIVERR_LINK)
+
+---
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
